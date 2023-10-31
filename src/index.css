@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #2B283A;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.box {
+  margin: 60px;
+  height: 100px;
+  width: 100px;
+  border: 1px solid #000;
+  display: inline-block;
+  margin-right: 8px;
+  border-radius: 8px;
+}
